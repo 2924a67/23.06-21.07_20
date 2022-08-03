@@ -1,0 +1,15 @@
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\Homework_02.csproj.AssemblyReference.cache
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\Homework_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\Homework_02.AssemblyInfoInputs.cache
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\Homework_02.AssemblyInfo.cs
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\Homework_02.csproj.CoreCompileInputs.cache
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\bin\Debug\net6.0\Homework_02.exe
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\bin\Debug\net6.0\Homework_02.deps.json
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\bin\Debug\net6.0\Homework_02.runtimeconfig.json
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\bin\Debug\net6.0\Homework_02.dll
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\bin\Debug\net6.0\Homework_02.pdb
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\Homework_02.dll
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\refint\Homework_02.dll
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\Homework_02.pdb
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\Homework_02.genruntimeconfig.cache
+C:\Users\Cleo\23.06 - 21.07_20\Homework_02\obj\Debug\net6.0\ref\Homework_02.dll
